@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35c32262052e73444b46aee15ede5e31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Block: {instanceID: 0}
+  - Diamond: {instanceID: 0}
+  - DarkBlock: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
