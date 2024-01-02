@@ -1,6 +1,6 @@
 # Find The Diamond Game
 
-Welcome to the "Find The Diamond" 3D video game, a Unity project where players aim to mine different blocks, find the precious diamond, and avoid enemy attacks. This README.md file provides an overview of the game, instructions on how to play, and details on the project structure.
+Welcome to the "Find The Diamond" 3D video game, a Unity project where players aim to mine different blocks, find the diamond, and avoid enemy attacks. This README.md file provides an overview of the game, instructions on how to play, and details on the project structure.
 
 ## Game Overview
 
